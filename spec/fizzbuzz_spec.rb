@@ -36,4 +36,3 @@ RSpec.describe "Fizz Buzz Tests" do
     expect(fizzBuzz(7)).to eq 7
   end
 end
-
